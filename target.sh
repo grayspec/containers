@@ -1,3 +1,3 @@
 #!/bin/sh
 
-# curl
+# curl https://edureqa.hrdkorea.or.kr/gitea/metis/metis-system.git
